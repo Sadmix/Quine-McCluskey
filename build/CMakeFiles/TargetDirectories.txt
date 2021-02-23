@@ -1,0 +1,3 @@
+/home/dmitry/CppProjects/state_machines/lab_1/build/CMakeFiles/rebuild_cache.dir
+/home/dmitry/CppProjects/state_machines/lab_1/build/CMakeFiles/lab_1.dir
+/home/dmitry/CppProjects/state_machines/lab_1/build/CMakeFiles/edit_cache.dir

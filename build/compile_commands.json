@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/dmitry/CppProjects/state_machines/lab_1/build",
+  "command": "/usr/bin/g++-7    -g   -o CMakeFiles/lab_1.dir/main.cpp.o -c /home/dmitry/CppProjects/state_machines/lab_1/main.cpp",
+  "file": "/home/dmitry/CppProjects/state_machines/lab_1/main.cpp"
+},
+{
+  "directory": "/home/dmitry/CppProjects/state_machines/lab_1/build",
+  "command": "/usr/bin/g++-7    -g   -o CMakeFiles/lab_1.dir/impl.cpp.o -c /home/dmitry/CppProjects/state_machines/lab_1/impl.cpp",
+  "file": "/home/dmitry/CppProjects/state_machines/lab_1/impl.cpp"
+}
+]

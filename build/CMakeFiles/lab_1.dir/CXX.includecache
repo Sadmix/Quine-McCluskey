@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dmitry/CppProjects/state_machines/lab_1/impl.cpp
+impl.h
+/home/dmitry/CppProjects/state_machines/lab_1/impl.h
+
+/home/dmitry/CppProjects/state_machines/lab_1/impl.h
+cmath
+-
+iostream
+-
+vector
+-
+bitset
+-
+
+/home/dmitry/CppProjects/state_machines/lab_1/main.cpp
+iostream
+-
+vector
+-
+fstream
+-
+cstring
+-
+string
+-
+set
+-
+impl.h
+/home/dmitry/CppProjects/state_machines/lab_1/impl.h
+bitset
+-
+
